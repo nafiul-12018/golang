@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4af16dae-1cb9-437b-b65f-621dadbfe002" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cmd/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/670. Maximum Swap.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/cenkalti/backoff/v4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/cenkalti/backoff/v4/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/cenkalti/backoff/v4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/cenkalti/backoff/v4/backoff.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/cenkalti/backoff/v4/context.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/cenkalti/backoff/v4/exponential.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/cenkalti/backoff/v4/retry.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/cenkalti/backoff/v4/ticker.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/cenkalti/backoff/v4/timer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/cenkalti/backoff/v4/tries.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/modules.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/2044. Count Number of Maximum Bitwise-OR Subsets.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backoff/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/backoff/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
